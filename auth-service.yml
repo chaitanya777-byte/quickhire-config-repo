@@ -7,7 +7,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/quickhire_auth
     username: root
-    password: root
+    password: Security@1
   jpa:
     hibernate:
       ddl-auto: update
